@@ -47,11 +47,21 @@ In fact, in many specific scenarios, which input method needs to be used is very
 
 The plug-in supports all programming languages, but the experience of different programming languages may not be the same because different programming language characteristics are different. For example, `Java`, `Kotlin`, `C`, `C++`, `Python`, `Php`, `Golang`, `JavaScript`, `TypeScript`, `Scala`, `Groovy` and other programming languages, Only mother tongue can be used in the comment area and string, and other areas can be used in English; HTML, Markdown and other marking languages do not have a very clear input method. Therefore, automatic switching is not turned on by default, but supports the use of cursor colors to indicate the state of input method.
 
-## About Payment
+## Freemium
 
-**Smart Input Pro​** adopts a value-added payment model, where [basic functions](http://xiaolvpuzi.cn/smart-input-pro-doc.html#/en/start/plans-pricing) are permanently free, and advanced functions require payment. It supports monthly/yearly/permanent payment subscriptions. The earlier you buy, the more favorable it is. For pricing details, please check [Features & Pricing](http://xiaolvpuzi.cn/smart-input-pro-doc.html#/en/start/plans-pricing).
+This product adopts a value-added payment model. It can be tried value-added functions within 30 days. After the trial, you can use basic functions for free. After activation, value-added functions can be used. Later you can also activate through the following path: Main Menu >> Help >> Register. For pricing details, please check [Features & Pricing](/en/start/plans-pricing).
 
-The basic functions include default scenario automatic switching and cursor color to indicate input status, which can meet daily programming needs and ensure that you will not mistakenly use the wrong input method when writing code. For example, when you write comments, you actively switch to your mother tongue (comment scenario is an advanced function), and when you change lines to enter the default scenario to write code, the plugin will automatically switch to English. At the same time, you can also modify the 'floating follow cursor reminder' in the plugin common settings page to avoid frequent reminders.
+- Automatically switch input method in the **Default Scenario**. (Free)
+- Displays the current input method on the cursor. (Free)
+- Shows the Caps Lock status on the cursor. (Free)
+- Automatically switch input method in the **Comment Scenario**. (Paid)
+- Automatically switch input method in the **Git Commit Scenario**. (Paid)
+- Automatically switch input method in the **Tool Window Scenario**. (Paid)
+- Automatically switch input method in the **Ideavim Scenario**. (Paid)
+- Automatically switch input method in the **String Scenario**. (Paid)
+- Automatically switch input method in the **Custom Events Scenario**. (Paid)
+- All other functions. (Paid)
+
 
 ## Download and Installation
 
