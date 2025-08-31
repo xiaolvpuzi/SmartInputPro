@@ -2,7 +2,7 @@
 	<img alt="logo" src="https://smart-input.oss-cn-hangzhou.aliyuncs.com/logo/smartinputprologo.png" width="150" height="150">
 </p>
 <h1 align="center" style="margin: 10px 0 10px; font-weight: bold; font-size: 40px">Smart Input Pro​</h1>
-<h5 align="center">プログラマのコード作成効率を向上させるツールで、特定のシーンで自動的に望む入力法に切り替える</h5>
+<h4 align="center">プログラマのコード作成効率を向上させるツールで、特定のシーンで自動的に望む入力法に切り替える</h4>
 
 
 ---
