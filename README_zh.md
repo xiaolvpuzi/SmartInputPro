@@ -4,7 +4,15 @@
 <h1 align="center" style="margin: 10px 0 10px; font-weight: bold; font-size: 40px">Smart Input Pro​</h1>
 <h5 align="center">一个帮助程序员提升编码效率的工具，在确定的场景自动切换到你想要的输入法</h5>
 
-
+<div align="center">
+	
+  [![Chinese](https://img.shields.io/badge/语言-中文-blue)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_zh.md)
+  [![English](https://img.shields.io/badge/Language-English-red)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README.md)
+  [![日本語](https://img.shields.io/badge/言語-日本語-green)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ja.md)
+  [![Korean](https://img.shields.io/badge/언어-한국어-purple)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ko.md)
+  [![Russian](https://img.shields.io/badge/Язык-Русский-orange)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ru.md)
+  
+</div>
 
 
 ## 解决什么问题
