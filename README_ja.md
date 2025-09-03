@@ -2,7 +2,7 @@
 	<img alt="logo" src="https://smart-input.oss-cn-hangzhou.aliyuncs.com/logo/smartinputprologo.png" width="150" height="150">
 </p>
 <h1 align="center" style="margin: 10px 0 10px; font-weight: bold; font-size: 40px">Smart Input Pro​</h1>
-<h4 align="center">プログラマのコード作成効率を向上させるツールで、特定のシーンで自動的に望む入力法に切り替える</h4>
+<h5 align="center">プログラマのコード作成効率を向上させるツールで、特定のシーンで自動的に望む入力法に切り替える</h5>
 
 
 ---
@@ -43,7 +43,6 @@
 ## サポートされているプログラミング言語
 
 理論的にはIDEがサポートするプログラミング言語であればすべてサポートしていますが、異なるプログラミング言語では体験が異なる可能性があります。これは異なるプログラミング言語の特徴が異なるためです。例えば、`Java`、`Kotlin`、`C`、`C++`、`Python`、`Php`、`Golang`、`JavaScript`、`TypeScript`、`Scala`、`Groovy`などでは、コメント領域と文字列リテラルのみで日本語を使用し、その他の領域では確実に英語を使用します。HTML、Markdownなどのマークアップ言語では、特定の入力法を使用する明確な領域がないため、現在は自動切り替えをサポートしていませんが、カーソルの色で入力法の状態を表示することをサポートしています。
-
 
 ## ダウンロードとインストール
 
