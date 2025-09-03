@@ -66,6 +66,14 @@
 ## 技术支持
 
 我们为 **Smart Input Pro (Chinese)** 写了详细的[介绍文档](https://xiaolvpuzi.cn/docs/smart-input-pro-doc.html#?from=HomePage/)，阅读介绍文档可以解决大部分问题，[常见问题](https://xiaolvpuzi.cn/docs/smart-input-pro-doc.html#/other/problem)列举了用户经常遇到的问题。如果您需要技术支持，您可以通过关注微信公众号获取技术支持，也可以直接联系“效率铺子”企业微信客服。我们会不断倾听用户的需求去优化产品，非常欢迎您向我们提产品需求。
-![微信公众号](https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/qrcode_wechat.png)
 
-![企业微信客服](https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/xiaoer_wechat.png)
+<p align="center">
+	<img alt="微信公众号" src="https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/qrcode_wechat.png" width="500">
+	<p align="center" style="font-size:14px">微信公众号</p>
+</p>
+
+<p align="center">
+	<img alt="企业微信客服" src="https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/xiaoer_wechat.png" width="300">
+	<p align="center" style="font-size:14px">企业微信客服</p>
+</p>
+
