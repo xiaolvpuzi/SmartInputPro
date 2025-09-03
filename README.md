@@ -4,8 +4,15 @@
 <h1 align="center" style="margin: 10px 0 10px; font-weight: bold; font-size: 40px">Smart Input Pro​</h1>
 <h4 align="center">An IntelliJ IDE Plugin to help programmers improve coding efficiency. Automatically switch input method.</h4>
 
-
-
+<div align="center">
+	
+  [![Chinese](https://img.shields.io/badge/语言-中文-blue)](链接)
+  [![English](https://img.shields.io/badge/Language-English-red)](链接)
+  [![日本語](https://img.shields.io/badge/言語-日本語-green)](链接)
+  [![Korean](https://img.shields.io/badge/언어-한국어-purple)](链接)
+  [![Russian](https://img.shields.io/badge/Язык-Русский-orange)](链接)
+  
+</div>
 
 # Abstract
 
