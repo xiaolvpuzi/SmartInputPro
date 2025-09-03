@@ -6,11 +6,11 @@
 
 <div align="center">
 	
-  [![Chinese](https://img.shields.io/badge/语言-中文-blue)](https://github.com/xiaolvpuzi/SmartInputPro/edit/main/README_zh.md)
-  [![English](https://img.shields.io/badge/Language-English-red)](https://github.com/xiaolvpuzi/SmartInputPro/edit/main/README.md)
-  [![日本語](https://img.shields.io/badge/言語-日本語-green)](https://github.com/xiaolvpuzi/SmartInputPro/edit/main/README_ja.md)
-  [![Korean](https://img.shields.io/badge/언어-한국어-purple)](https://github.com/xiaolvpuzi/SmartInputPro/edit/main/README_ko.md)
-  [![Russian](https://img.shields.io/badge/Язык-Русский-orange)](https://github.com/xiaolvpuzi/SmartInputPro/edit/main/README_ru.md)
+  [![Chinese](https://img.shields.io/badge/语言-中文-blue)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_zh.md)
+  [![English](https://img.shields.io/badge/Language-English-red)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README.md)
+  [![日本語](https://img.shields.io/badge/言語-日本語-green)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ja.md)
+  [![Korean](https://img.shields.io/badge/언어-한국어-purple)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ko.md)
+  [![Russian](https://img.shields.io/badge/Язык-Русский-orange)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_ru.md)
   
 </div>
 
