@@ -1,8 +1,11 @@
-<!-- Plugin description -->
+<p align="center">
+	<img alt="logo" src="https://smart-input.oss-cn-hangzhou.aliyuncs.com/logo/smartinputprologo.png" width="150" height="150">
+</p>
+<h1 align="center" style="margin: 10px 0 10px; font-weight: bold; font-size: 40px">Smart Input Pro​</h1>
+<h5 align="center">一个帮助程序员提升编码效率的工具，在确定的场景自动切换到你想要的输入法</h5>
 
-Automatically switch input method according to the position of the cursor. Displays the current language on the cursor. Avoid typos and coding errors caused by language switching. This feature is particularly beneficial for developers whose mother tongue is not English, such as Chinese, Japanese, Korean and Russian, etc. At the same time, it is also a necessary extension of IdeaVim. Key word: SmartInput, Smart Input Pro.
 
-If your native language is not Chinese, you need to access another plugin. [Smart Input Pro ​(Japan,​ South Korea,​ Russia & more)​](https://plugins.jetbrains.com/plugin/25751-smart-input-pro-japan-south-korea-russia--more-)
+
 
 ## 解决什么问题
 
@@ -58,5 +61,3 @@ If your native language is not Chinese, you need to access another plugin. [Smar
 ![微信公众号](https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/qrcode_wechat.png)
 
 ![企业微信客服](https://smart-input.oss-cn-hangzhou.aliyuncs.com/picture/xiaoer_wechat.png)
-
-<!-- Plugin description end -->
