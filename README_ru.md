@@ -5,8 +5,6 @@
 <h5 align="center">Инструмент, помогающий программистам повысить эффективность кодирования, автоматически переключающийся на желаемый метод ввода в определенных сценариях.</h5>
 
 
----
-
 <div align="center">
 	
   [![Chinese](https://img.shields.io/badge/语言-中文-blue)](https://github.com/xiaolvpuzi/SmartInputPro/blob/main/README_zh.md)
